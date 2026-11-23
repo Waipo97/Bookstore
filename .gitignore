@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Django
+db.sqlite3
+media/
+
+# Node / Vue
+node_modules/
+client/dist/
+
+# IDE
+.vscode/
+.idea/
